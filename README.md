@@ -1,4 +1,5 @@
 The Topic : Cryptocurrency Price Tracker
+
 Type : Mini Project
 
 1️⃣It scraps:
